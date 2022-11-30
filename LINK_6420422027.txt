@@ -1,0 +1,2 @@
+youtube: https://www.youtube.com/watch?v=2f7ifp5epwA
+github: https://github.com/icetrm/DADS5001-QUIZ1
